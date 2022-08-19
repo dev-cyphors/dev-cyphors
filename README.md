@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dev-cyphors
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in learning New Technologies
-- 🌱 I’m currently learning Cloud Technology
+- 🌱 I’m working on Cloud Technology (Microsoft Azure)
 - 📫 How to reach me <a href="https://www.linkedin.com/in/vishalwazarkar1972/">LinkedIn</a>
 
 <!---
